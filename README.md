@@ -1,13 +1,10 @@
 ### Oi oi, tudo bom ? 👋 , Eu me chamo Rocks🤘
 
 
-- 🌱 I’m currently learning React
-- 🤔 I’m looking for help with Javascript and React 
-- 📫 How to reach me: Instagram : @rokssanemarina | Twitter: @rokssanemarina 
-- 😄 Pronouns: She/Her
+- 🌱 Atuamente aprendendo Front-end 
+- 🤔 Uma força extra em Javascript e React 
+- 😄 Pronouns: She/Her | Ela/Dela
 - ⚡ Fun fact: Se você gosta de musicais, provavelmente você vai me ouvir cantando alguma música. 
--->
-
 
 <div>
   <a href="https://github.com/rokssanemarina"></a>
